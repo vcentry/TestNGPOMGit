@@ -1,0 +1,10 @@
+com\java\intializer\ReadExcel.class
+com\java\testcase\SeleniumeasyTestcase.class
+com\java\locators\SeleniumeasyLocators.class
+com\java\testcase\JqueryAutocompleteTestcase.class
+com\java\intializer\Utility.class
+com\java\locators\JQueryAutocomplete.class
+com\java\intializer\Initialize.class
+com\java\intializer\ReadProperty.class
+com\java\page\JQueryAutocompletePage.class
+com\java\page\SeleniumeasyPage.class
